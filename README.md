@@ -17,7 +17,8 @@ Once prompts are answered then the password should be generated and written to t
 
 ## Table of Contents
 
--Just check the console
+It is an application that generates a random password based on the following criteria: When you press the "generate password" button, you will be asked if you want it to contain numbers, lowercase letters, uppercase letters, and/or special characters.
+Which will be randomly generated with a length, which you will also be asked at the beginning, between 10 and 64 characters.
 
 ## Screenshots
 
